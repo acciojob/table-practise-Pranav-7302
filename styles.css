@@ -7,7 +7,7 @@
 table{
     background-color: yellow;
 }
-tr,th, td {
+table,tr,th, td {
 border: 1px solid black;
 font-size: large;
 }
