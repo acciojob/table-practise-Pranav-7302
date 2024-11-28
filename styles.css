@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-h1{
-    margin-left: 60px;
-}
+
 table{
     background-color: yellow;
 }
@@ -14,6 +12,3 @@ border: 1px solid black;
 font-size: large;
 }
 
-th, td{
-    padding: 10px 30px;
-}
