@@ -9,7 +9,7 @@ h1{
 table{
     background-color: yellow;
 }
-table ,tr,th, td {
+tr,th, td {
 border: 1px solid black;
 font-size: large;
 }
